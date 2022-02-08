@@ -1,0 +1,6 @@
+# Copyright (c) 2021 aasaam software development group
+coverage.*
+go.sum
+tmp/
+nginx-error-log-parser
+nginx-error-log-parser*
