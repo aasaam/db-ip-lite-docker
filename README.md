@@ -3,7 +3,7 @@
     DB-IP Lite docker
   </h1>
   <p>
-    Scratch image contain the lite mmdb version of DB-IP (update frequency)
+    Image contain the lite mmdb version of DB-IP (update frequency)
   </p>
   <p>
     <a href="https://github.com/aasaam/db-ip-lite-docker/actions/workflows/build.yml" target="_blank"><img src="https://github.com/aasaam/db-ip-lite-docker/actions/workflows/build.yml/badge.svg" alt="build" /></a>
