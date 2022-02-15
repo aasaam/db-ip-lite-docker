@@ -14,6 +14,6 @@ RUN apt update -y && apt install -y wget \
   && gunzip dbip-asn-lite.gz \
   && mv dbip-asn-lite dbip-asn-lite.mmdb
 
-FROM scratch
+FROM alpine
 
 COPY --from=builder /tmp/geo/*.mmdb /
